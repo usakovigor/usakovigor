@@ -1,7 +1,7 @@
 
 <!--Intro-->
 
-# 👋 Hello! I'm usakovigor.
+# 👋 Hello! I'm Usakov Igor.
 
 ## About me
 
