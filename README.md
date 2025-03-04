@@ -5,8 +5,8 @@
 
 ## About me
 
-  💼 Blockchain Engineer.
-  📈 8 years Frontend and Backend experience
+  💼 Senior Blockchain Engineer.
+  📈 Ethereum, Solana, Ripple etc.
 
 <!--Skills-->
 <h2 align="center">
