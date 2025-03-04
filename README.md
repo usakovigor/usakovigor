@@ -5,8 +5,7 @@
 
 ## About me
 
-  💼 Senior Blockchain Engineer.
-  📈 Ethereum, Solana, Ripple etc.
+  💼 Senior Blockchain Engineer. I like Ethereum, Solana, Ripple etc.
 
 <!--Skills-->
 <h2 align="center">
