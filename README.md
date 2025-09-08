@@ -5,7 +5,7 @@
 
 ## About me
 
-  💼 Full stack engineer with 6+ years of experience in building scalable, high-performance web applications. Expertise in
+  💼 Full stack engineer with 8+ years of experience in building scalable, high-performance web applications. Expertise in
 Laravel, Vue.js, React, and backend technologies such as Node.js and Python. Proven ability to design and develop
 complex systems, including CRM platforms, real-time dialers, lead distribution engines, and order management systems
 (OMS). Strong experience in microservices architecture, Twilio integration, and Chrome Extension development. Highly
